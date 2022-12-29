@@ -1,0 +1,11 @@
+{
+	"idle_anim": "choose",
+	"image": "start",
+	"position": [
+		435,
+		15
+	],
+	"flipX": false,
+	"scale": 1.1,
+	"confirm_anim": "choosing"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="start.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="choose0000" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0000" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0001" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0002" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0003" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0004" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0005" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0006" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0007" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0008" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0009" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0010" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0011" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0012" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0013" x="1200" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0014" x="0" y="0" width="1200" height="637"/>
+	<SubTexture name="choosing0015" x="0" y="0" width="1200" height="637"/>
+</TextureAtlas>
