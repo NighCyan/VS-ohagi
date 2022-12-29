@@ -25,17 +25,17 @@ class FlashingState extends MusicBeatState
 
 		warnText = new FlxText(0, 0, FlxG.width,
 			"Hey, watch out!\n
-			This Mod contains some flashing lights!\n
-			Press ENTER to disable them now or go to Options Menu.\n
-			Press ESCAPE to ignore this message.\n
-			You've been warned!",
+			This Mod ported by TieGuo!\n
+			7723:铁锅炖大鹅, Bilibili:TG铁锅炖大鹅\n
+			QQ群:571719898\n
+			按下A继续",
 			32);
-		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
+		warnText.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
 		add(warnText);
 
                 #if android
-                addVirtualPad(NONE, A_B);
+                addVirtualPad(NONE, A);
                 #end
 	}
 
